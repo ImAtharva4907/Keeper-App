@@ -1,4 +1,4 @@
-# Atharva Keeper - Google Keep Clone
+# Keeper - Google Keep Clone
 
 A simple and user-friendly web-based note-taking application inspired by Google Keep. This project allows users to create, edit, and delete notes in a streamlined, intuitive interface.
 
