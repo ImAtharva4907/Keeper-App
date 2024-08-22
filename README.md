@@ -9,7 +9,6 @@ You can access the live version of the app here: [Atharva Keeper](https://atharv
 ## Features
 
 - **Create Notes:** Add notes with a title and description.
-- **Edit Notes:** Modify existing notes easily.
 - **Delete Notes:** Remove notes when they are no longer needed.
 - **Responsive Design:** Works well on both desktop and mobile devices.
 - **Real-time Updates:** Notes are saved instantly without any delay.
